@@ -24,10 +24,6 @@ body {
     --ungu-gelap: #29174b;
 }
 
-.parallax {
-    background-image: url('bg1.png');
-}
-
 .gitu {
     width: 100%;
     display: flex;
